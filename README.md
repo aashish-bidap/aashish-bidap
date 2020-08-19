@@ -6,7 +6,7 @@
   - Data Pipelining with Apache Kafka and ElasticSearch
 - 📫 How to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
-  - Linkedin - https://www.linkedin.com/in/ashish-bidap/
+  - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
 - :computer: Tech Stack<br>
     - Languages:Python,R,SQL,C++ <br>
     - Machine Learning Concepts:Regression,Clustering,Classification,Ensemble methods,Artificial Neural Networks,Natural Language Processing<br>
