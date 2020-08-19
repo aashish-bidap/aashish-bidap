@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently ...<br>
+- 🔭 I’m currently ...
   - Pursuing Masters in Data Analytics
   - Looking for Data Analytics Internship/Co-op Opportunities
 - 🌱 I’m currently learning ...
@@ -7,7 +7,7 @@
 - 📫 How to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
-- :computer: Tech Stack<br>
+- :computer: Tech Stack ...<br>
     - Languages:Python,R,SQL,C++ <br>
     - Machine Learning Concepts:Regression,Clustering,Classification,Ensemble methods,Artificial Neural Networks,Natural Language Processing<br>
     - Libraries/Packages:numpy,pandas,tensorflow,keras,matplotlib,seaborn,plotly,dash,beautifulsoap,nltk,scikitlearn,ggplot2,dplyr,RShiny,SHAP<br>
