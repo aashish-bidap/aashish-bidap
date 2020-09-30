@@ -3,7 +3,9 @@
   - Pursuing Masters in Data Analytics
   - Looking for Data Analytics Internship/Co-op Opportunities
 - 🌱 I’m currently learning ...
-  - Data Pipelining with Apache Kafka and ElasticSearch
+  - Text Summarization and Text Categorization 
+  - Image Processing
+  - Data Analaytics in Podcast Advertising Industry
 - 📫 How to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
