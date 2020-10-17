@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ...
   - Text Summarization and Text Categorization 
   - Image Processing
-  - Data Analaytics in Podcast Advertising Industry
+  - Data Analytics in Podcast Advertising Industry
 - 📫 How to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
