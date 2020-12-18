@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently ...
-  - Pursuing Masters in Data Analytics
   - Looking for Full time Opportunities in Data Analytics.
 - 🌱 I’m currently learning ...
   - Text Summarization and Text Categorization 
