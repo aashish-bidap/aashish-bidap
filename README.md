@@ -2,8 +2,8 @@
 - 🔭 I’m currently ...
   - Looking for Full time Opportunities in Data Analytics.
 - 🌱 I’m currently learning ...
-  - Text Summarization and Text Categorization 
-  - Image Processing
+  - Text Categorization 
+  - NLP Question Answering Systems
   - Data Analytics in Podcast Advertising Industry
 - 📫 Feel free to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
