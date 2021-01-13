@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently ...
-  - Looking for Full time Opportunities in Data Analytics.
+  - Actively looking for Full Time Opportunities Starting June 2021.
 - 🌱 I’m currently learning ...
   - Text Categorization 
   - NLP Question Answering Systems
