@@ -10,7 +10,7 @@
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
 - :computer: Tech Stack ...<br>
     - Languages:Python,R,SQL,C++ <br>
-    - Machine Learning Concepts:Regression,Clustering,Classification,Ensemble methods,Artificial Neural Networks,Natural Language Processing<br>
+    - Machine Learning Concepts:Regression,Clustering,Classification,Ensemble methods,Artificial Neural Networks,NLP<br>
     - Libraries/Packages:numpy,pandas,tensorflow,keras,plotly,dash,beautifulsoap,nltk,scikitlearn,SHAP<br>
     - Databases:Microsoft SQL Server, MySQL<br>
     - Cloud:Amazon Web Services , Google Cloud Platform <br>
