@@ -1,10 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently ...
   - Actively looking for Full Time Opportunities Starting June 2021.
-- 🌱 I’m currently learning ...
-  - Text Categorization 
-  - NLP Question Answering Systems
-  - Data Analytics in Podcast Advertising Industry
 - 📫 Feel free to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
