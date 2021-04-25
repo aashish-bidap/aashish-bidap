@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently ...
-  - Actively looking for Full Time Opportunities Starting June 2021.
+  - Actively looking for Full Time Opportunities in Data Analytics.
 - 📫 Feel free to reach me: ...
   - :email: Email - bidap.a@northeastern.edu
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
