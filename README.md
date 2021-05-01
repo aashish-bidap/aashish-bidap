@@ -10,5 +10,5 @@
     - Databases:Microsoft SQL Server, MySQL<br>
     - Machine Learning Concepts:Regression,Clustering,Classification,Ensemble methods,Neural Networks,NLP<br>
     - Cloud:Amazon Web Services , Google Cloud Platform <br>
-    - Big Data: Apache Hadoop,Apache Hive,Cloudera,Apache Parquet,PySpark,Spark SQL <br>
+    - Big Data: Apache Parquet,PySpark,Spark SQL <br>
     - Web Frameworks:Django,Tkinter,Streamlit
