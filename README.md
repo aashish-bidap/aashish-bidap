@@ -1,12 +1,13 @@
 ### Hi there 👋
-- 📫 Feel free to reach me: ...
+- 🔭 I'm
+  -  Experienced professional with programming & engineering skills to analyze large data.
+  -  3+ years of industry experience working with data.
+  -  Master's in Data Analytics / Bachelors in Computer Engineering 
+- 📫 Feel free to reach me for any collaborations: ...
   - :email: Email - ashish.bidap@gmail.com
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
 - :computer: Tech Stack ...<br>
-    - Languages:Python,R,SQL,C++ <br>
-    - Libraries/Packages:numpy,pandas,tensorflow,keras,plotly,dash,beautifulsoap,nltk,scikitlearn,SHAP<br>
-    - Databases:Microsoft SQL Server, MySQL<br>
-    - Machine Learning Concepts:Regression,Clustering,Classification,Ensemble methods,Neural Networks,NLP<br>
-    - Cloud:Amazon Web Services , Google Cloud Platform <br>
-    - Big Data: Apache Parquet,PySpark,Spark SQL <br>
-    - Web Frameworks:Django,Tkinter,Streamlit
+    - Languages - Python, SQL <br>
+    - Cloud - AWS, GCP <br>
+    - Machine Learning, Predictive Modeling, Data Mining, NLP, Clustering, Classification, Deep Neural Nets<br>
+    - Big Data <br>
