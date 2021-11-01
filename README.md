@@ -1,8 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently ...
-  - Actively looking for Full Time Opportunities in Data Analytics.
 - 📫 Feel free to reach me: ...
-  - :email: Email - bidap.a@northeastern.edu
+  - :email: Email - ashish.bidap@gmail.com
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
 - :computer: Tech Stack ...<br>
     - Languages:Python,R,SQL,C++ <br>
