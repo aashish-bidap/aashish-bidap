@@ -2,7 +2,6 @@
 - 🔭 I'm
   -  Experienced professional with programming & engineering skills to analyze large data.
   -  3+ years of industry experience working with data.
-  -  Master's in Data Analytics / Bachelors in Computer Engineering 
 - 📫 Feel free to reach me for any collaborations: ...
   - :email: Email - ashish.bidap@gmail.com
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
