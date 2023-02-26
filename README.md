@@ -1,12 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm
-  -  Experienced professional with programming & engineering skills to analyze large data.
-  -  3+ years of industry experience working with data.
+  -  data professional with 4 years of rich experience working with large volumes of data and implementing data driven solutions to derive insights.
 - 📫 Feel free to reach me for any collaborations: ...
   - :email: Email - ashish.bidap@gmail.com
   - :information_source: Linkedin - https://www.linkedin.com/in/ashish-bidap/
-- :computer: Tech Stack ...<br>
-    - Languages - Python, SQL <br>
-    - Cloud - AWS, GCP <br>
-    - Machine Learning, Predictive Modeling, Data Mining, NLP, Clustering, Classification, Deep Neural Nets<br>
-    - Big Data <br>
